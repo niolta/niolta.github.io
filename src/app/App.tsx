@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Текст писать тут
+          Являюсь java backend разработчиком. Хочу дополнительно освоить frontend. Выбор пал на React, т.к. он используется во многих проектах в компании.
         </p>
       </header>
     </div>
